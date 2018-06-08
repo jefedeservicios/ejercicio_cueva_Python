@@ -1,0 +1,3 @@
+# ejercicio_cueva_Python
+Un ejercicio sencillo de Python......
+Se trata de un cuento de un Dragón y se deja a manos del azar..usando random el final que decide el propio cuento
